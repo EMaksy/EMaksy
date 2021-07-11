@@ -1,7 +1,6 @@
-# Hi, I am  Eugen Maksymenko <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
-Im a junior software developer (Python/C++/Linux) from germany.
-
-
+# Hello There  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"></h2><br>
+# My name is <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="eugen-maksymenko-3b3027217" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/eugen-maksymenko-3b3027217?trk=profile-badge">Eugen Maksymenko</a></div>
+and I am junior software developer (Python/C++/Linux) from germany.
 
 
 - 🔭 I’m currently working on https://github.com/EMaksy/reportdaily a command line tool
