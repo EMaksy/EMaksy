@@ -21,3 +21,7 @@ and I am junior software developer (Python/C++/Linux) from germany.
 ## GitHub Stats:
 
 ![EMaksy](https://github-readme-stats.vercel.app/api?username=EMaksy&show_icons=true)
+
+## Find me on
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eugen-maksymenko-3b3027217/)
