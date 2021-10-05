@@ -1,21 +1,25 @@
 # Hello there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"></h2><br>
 # My name is <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="eugen-maksymenko-3b3027217" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.notion.so/emaksy/Hey-there-I-m-Eugen-Maksymenko-545654b643ed4390b927bb5ee10a9207">Eugen Maksymenko</a></div>
-and I am junior software developer (Python/C++/Linux) from germany.
+and I am a software developer trainee at SUSE Software Solutions.
 
 
-- 🔭 I’m currently working on https://github.com/EMaksy/reportdaily a command line tool
-- 🌱 I’m currently learning Python, SQL and CI/CD with GitHub Actions
+- 🔭 My latest own project: https://github.com/EMaksy/reportdaily a command line tool
+- 🌱 Currently learning Ruby and Ruby on Rails
+- :computer: Check out my latest blog entry about docker and [Nextcloud on openSUSE Leap 15.3]( https://www.notion.so/emaksy/Installing-and-setting-up-your-personal-cloud-with-openSUSE-Docker-and-Nextcloud-6c5cdcc1c5204d119f3fc4dc65915a01)
 - Speak :gb: / :de: / :ru:
-- 📫 How to reach me: eugen.maksymenko@gmx.de
+- 📫 How to reach me privatly: eugen.maksymenko@gmx.de
 
 ## 💡 Technologies & Tools
 
 * Linux 
-* openSUSE 
+* openSUSE
+* Docker
 * Git 
 * Python 
 * C/C++
 * SQL
+* HTML/CSS/Javascript
+* Ruby on Rails
 
 ## GitHub Stats:
 
