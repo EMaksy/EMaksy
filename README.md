@@ -19,7 +19,8 @@ and I am a software developer trainee at SUSE Software Solutions.
 * C/C++
 * SQL
 * HTML/CSS/Javascript
-* Ruby on Rails
+* Ruby
+* Rails
 
 ## GitHub Stats:
 
