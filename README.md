@@ -17,10 +17,11 @@ I am an Apprentice Engineering at SUSE Software Solutions.
 * Git 
 * Python 
 * C/C++
+* C#/Mono
 * SQL
 * HTML/CSS/Javascript
-* Ruby
-* Rails
+* Ruby on Rails
+* Elixir
 
 ## GitHub Stats:
 
