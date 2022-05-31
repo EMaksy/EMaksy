@@ -4,7 +4,7 @@ I am an Apprentice Engineering at SUSE Software Solutions.
 
 
 - 🔭 My latest own project: https://github.com/EMaksy/reportdaily a command line tool
-- 🌱 Currently learning Ruby and Ruby on Rails
+- 🌱 Currently learning Elixir and Phoenix Framework
 - :computer: Check out my latest blog entry about docker and [Nextcloud on openSUSE Leap 15.3]( https://www.notion.so/emaksy/Installing-and-setting-up-your-personal-cloud-with-openSUSE-Docker-and-Nextcloud-6c5cdcc1c5204d119f3fc4dc65915a01)
 - Speak :gb: / :de: / :ru: / 🇺🇦
 - 📫 How to reach me privatly: eugen.maksymenko@gmx.de
