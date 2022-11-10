@@ -11,16 +11,13 @@ I am an Software Engineer at SUSE Software Solutions.
 
 ## 💡 Technologies & Tools
 
-* Linux 
-* openSUSE
+* Linux/openSUSE
 * Docker
-* Git 
 * Python 
 * C/C++
-* C#/Mono
 * SQL
 * HTML/CSS/Javascript
-* Ruby on Rails
+* React/Redux
 * Elixir and Phoenix
 
 ## GitHub Stats:
