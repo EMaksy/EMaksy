@@ -28,6 +28,9 @@ I have experience working with the following technologies and tools:
 I'm currently contributing to the [trento-project](https://github.com/trento-project), an open source project focused on providing a platform for real-time monitoring and analysis of cloud-native applications.
 Feel free to checkout my contributions to [trento-web](https://github.com/trento-project/web/commits?author=EMaksy) and [trento-wanda](https://github.com/trento-project/wanda/commits?author=EMaksy)
 
+## Most used Languages on GitHub
+![EMaksy](https://github-readme-stats.vercel.app/api/top-langs/?username=EMaksy)
+
 ## GitHub Stats:
 
 ![EMaksy](https://github-readme-stats.vercel.app/api?username=EMaksy&show_icons=true)
