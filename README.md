@@ -5,7 +5,7 @@
 I am a Software Engineer at [SUSE](https://www.suse.com/company/about/).
 In my free time, I love building applications and self-hosting them on my own Linux server. I'm also a big fan of gaming and enjoy playing various games when not currently learning a new technology.
 
-- :computer: Check out my latest blog post on setting up your own personal cloud with Docker and Nextcloud on openSUSE Leap 15.3 [here](https://www.notion.so/emaksy/Installing-and-setting-up-your-personal-cloud-with-openSUSE-Docker-and-Nextcloud-6c5cdcc1c5204d119f3fc4dc65915a01).
+- :computer: Check out my guide for your own personal cloud with Docker and Nextcloud on openSUSE Leap 15.3 [here](https://www.notion.so/emaksy/Installing-and-setting-up-your-personal-cloud-with-openSUSE-Docker-and-Nextcloud-6c5cdcc1c5204d119f3fc4dc65915a01).
 - Speak :gb: / :de: / :ru: / 🇺🇦
 
 ## 💡 Technologies & Tools
@@ -19,9 +19,9 @@ I have experience working with the following technologies and tools:
 - C/C++/C#
 - MySQL/SQLite/PostgreSQL
 - HTML
-- CSS/Tailwind
+- CSS/Bootstrap/Tailwind
 - JavaScript/Jest/React/Redux/Storybook
-- Elixir/Phoenix
+- Elixir/Ecto/Phoenix/Commanded
 
 ## Contributions
 
