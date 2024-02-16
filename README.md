@@ -12,11 +12,10 @@ In my free time, I love building applications and self-hosting them on my own Li
 
 I have experience working with the following technologies and tools:
 
-- Linux/openSUSE
+- Linux/openSUSE/SLES
 - Containers/Docker
+- Ansible
 - Python
-- Ruby/Rails
-- C/C++/C#
 - MySQL/SQLite/PostgreSQL
 - HTML
 - CSS/Bootstrap/Tailwind
