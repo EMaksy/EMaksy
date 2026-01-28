@@ -10,19 +10,50 @@ In my free time, I love building applications and self-hosting them on my own Li
 
 ## 💡 Technologies & Tools
 
-I have experience working with the following technologies and tools:
+### **Operating Systems & Cloud**
+- Linux / openSUSE / SLES  
+- Amazon Web Services (hands-on)  
+- Microsoft Azure (hands-on)
 
-- Linux/openSUSE/SLES
-- Containers/Docker
-- Ansible
-- Python
-- MySQL/SQLite/PostgreSQL
-- HTML
-- CSS/Bootstrap/Tailwind
-- JavaScript/Jest/React/Redux/Storybook
-- Elixir/Ecto/Phoenix/Commanded
+### **Containers & Orchestration**
+- Docker / Podman  
+- Kubernetes (hands-on)  
+- Helm (hands-on)
 
-## Contributions
+### **Infrastructure & Automation**
+- Ansible  
+- Terraform / OpenTofu  
+- CI/CD (GitHub Actions, Jenkins)
 
-I'm currently contributing to the [trento-project](https://github.com/trento-project), an open source project focused on providing a platform for real-time monitoring and analysis of cloud-native applications.
-Feel free to checkout my contributions to [trento-web](https://github.com/trento-project/web/commits?author=EMaksy) and [trento-wanda](https://github.com/trento-project/wanda/commits?author=EMaksy)
+### **Programming & Scripting**
+- Bash  
+- JavaScript (ES6+) / TypeScript (learning)  
+- Python  
+- Elixir  
+- Java  
+- Golang (hands-on)
+
+### **Databases**
+- PostgreSQL · MySQL · MariaDB · SQLite
+
+### **Frontend & Backend Frameworks**
+- React · Redux · Tailwind · Storybook · Jest · Cypress  
+- Phoenix · Ecto · Commanded
+
+### **Monitoring & Observability**
+- Prometheus · Grafana
+
+---
+
+## 🧩 Open Source Contributions
+
+I’m actively contributing to the **[Trento Project](https://github.com/trento-project)** — an open-source platform for improving SAP operations on Linux.
+
+Some of my work includes:
+
+- Contributing to frontend components and UI improvements in **[trento-web](https://github.com/trento-project/web/commits?author=EMaksy)**  
+- Implementing backend logic and automation enhancements in **[trento-wanda](https://github.com/trento-project/wanda/commits?author=EMaksy)**  
+- Improving quality, CI/CD workflows, and component-driven development across the project
+- Contributing to Antora-based documentation improvements and Docs-as-Code workflows **[trento-docs](https://github.com/trento-project/docs/commits?author=EMaksy)**  
+
+---
