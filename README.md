@@ -1,6 +1,6 @@
 # Hello there <img src="./gif/wave.gif" width="40" height="40">
 
-# My name is <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="eugen-maksymenko-3b3027217" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.notion.so/emaksy/Hey-there-I-m-Eugen-Maksymenko-545654b643ed4390b927bb5ee10a9207">Eugen Maksymenko</a></div>
+# My name is <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="eugen-maksymenko-3b3027217" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.emaksy.com/">Eugen Maksymenko</a></div>
 
 I am a Software Engineer at [SUSE](https://www.suse.com/company/about/).
 In my free time, I love building applications and self-hosting them on my own Linux server. I'm also a big fan of gaming and enjoy playing various games when not currently learning a new technology.
