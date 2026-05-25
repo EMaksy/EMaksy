@@ -45,18 +45,6 @@ In my free time, I love building applications and self-hosting them on my own Li
 
 ---
 
-## 🧩 Open Source Contributions
-
-I’m actively contributing to the **[Trento Project](https://github.com/trento-project)** — an open-source platform for improving SAP operations on Linux.
-
-Some of my work includes:
-
-- Contributing to frontend components and UI improvements in **[trento-web](https://github.com/trento-project/web/commits?author=EMaksy)**  
-- Implementing backend logic and automation enhancements in **[trento-wanda](https://github.com/trento-project/wanda/commits?author=EMaksy)**  
-- Improving quality, CI/CD workflows, and component-driven development across the project
-- Contributing to Antora-based documentation improvements and Docs-as-Code workflows **[trento-docs](https://github.com/trento-project/docs/commits?author=EMaksy)**  
----
-
 ## Blog
 - How i build my [blog](https://www.emaksy.com/blog/how-this-about-me-page-is-built).
 - :computer: Check out my guide for your own personal cloud with Docker and Nextcloud on openSUSE Leap 15.3 [here](https://www.emaksy.com/blog/personal-cloud-opensuse-docker-nextcloud).
