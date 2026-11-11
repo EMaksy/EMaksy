@@ -1,50 +1,15 @@
-# Hello there <img src="./gif/wave.gif" width="40" height="40">
+# Hello there <img src="./gif/wave.gif" width="40" height="40" alt="Waving hand">
 
-# My name is <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="eugen-maksymenko-3b3027217" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.emaksy.com/">Eugen Maksymenko</a></div>
+I'm **Eugen Maksymenko**, a Software Engineer at [SUSE](https://www.suse.com/company/about/), specializing in full-stack web development for open-source and enterprise Linux products.
 
-I am a Software Engineer at [SUSE](https://www.suse.com/company/about/).
-In my free time, I love building applications and self-hosting them on my own Linux server. I'm also a big fan of gaming and enjoy playing various games when not currently learning a new technology.
+Outside work, I build applications, self-host services on my Linux server, and enjoy gaming.
 
+You can find more about me and my work on [my website](https://www.emaksy.com/), along with [my CV](https://www.emaksy.com/cv) and [my blog](https://www.emaksy.com/blog).
 
-- Speak :gb: / :de: / :ru: / 🇺🇦
+**Let's connect:**
 
-## 💡 Technologies & Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjM3IDI0SC4zOVY3Ljk4aDQuOTh6TTIuODggNS43OUEyLjg5IDIuODkgMCAxIDEgMi44OCAwYTIuODkgMi44OSAwIDAgMSAwIDUuNzl6TTI0IDI0aC00Ljk3di03Ljc5YzAtMS44Ni0uMDQtNC4yNS0yLjU5LTQuMjUtMi41OSAwLTIuOTkgMi4wMi0yLjk5IDQuMTJWMjRIOC40OFY3Ljk4aDQuNzd2Mi4xOWguMDdjLjY2LTEuMjYgMi4yOS0yLjU5IDQuNzEtMi41OSA1LjA0IDAgNS45NyAzLjMyIDUuOTcgNy42M3oiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/eugen-maksymenko/)
+[![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Eugen_Maksymenko/cv)
+[![Email](https://img.shields.io/badge/Email-455A64?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIyIiB5PSI0IiB3aWR0aD0iMjAiIGhlaWdodD0iMTYiIHJ4PSIyIi8%2BPHBhdGggZD0ibTIgNSAxMCA4TDIyIDUiLz48L3N2Zz4%3D)](mailto:eugen.maksymenko@gmx.de)
 
-### **Operating Systems & Cloud**
-- Linux / openSUSE / SLES  
-- Amazon Web Services (hands-on)  
-- Microsoft Azure (hands-on)
-
-### **Containers & Orchestration**
-- Docker / Podman  
-- Kubernetes (hands-on)  
-- Helm (hands-on)
-
-### **Infrastructure & Automation**
-- Ansible  
-- Terraform / OpenTofu  
-- CI/CD (GitHub Actions, Jenkins)
-
-### **Programming & Scripting**
-- Bash  
-- JavaScript (ES6+) / TypeScript (learning)  
-- Python  
-- Elixir  
-- Java  
-- Golang (hands-on)
-
-### **Databases**
-- PostgreSQL · MySQL · MariaDB · SQLite
-
-### **Frontend & Backend Frameworks**
-- React · Redux · Tailwind · Storybook · Jest · Cypress  
-- Phoenix · Ecto · Commanded
-
-### **Monitoring & Observability**
-- Prometheus · Grafana
-
----
-
-## Blog
-- How i build my [blog](https://www.emaksy.com/blog/how-this-about-me-page-is-built).
-- :computer: Check out my guide for your own personal cloud with Docker and Nextcloud on openSUSE Leap 15.3 [here](https://www.emaksy.com/blog/personal-cloud-opensuse-docker-nextcloud).
+I speak 🇬🇧 English · 🇩🇪 German · 🇷🇺 Russian · 🇺🇦 Ukrainian.
